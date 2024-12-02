@@ -1,0 +1,25 @@
+/* src/styles/variables.css */
+
+.variables-panel {
+    width: 200px;
+    padding: 10px;
+    background-color: #1e1e1e;
+    color: #d4d4d4;
+    border-left: 1px solid #333;
+    overflow-y: auto;
+    height: 600px;
+  }
+  
+  .variables-panel h3 {
+    margin-top: 0;
+  }
+  
+  .variables-panel ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .variables-panel li {
+    margin-bottom: 5px;
+  }
+  
